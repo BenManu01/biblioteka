@@ -12,3 +12,257 @@
 1714581742 source:c:\users\pocob\documents\cppp\guii\src\settingsframe.cpp
 	"SettingsFrame.h"
 
+1715860768 source:c:\users\pocob\documents\cppp\guii - copy\main.cpp
+	<wx/grid.h>
+	<iostream>
+	<vector>
+	<fstream>
+	"Client.h"
+	"Test.h"
+	"Menu.h"
+	"Tools.h"
+	<wx/wxprec.h>
+	<wx/wx.h>
+	<SettingsFrame.h>
+	<SearchPanel.h>
+	<SidePanel.h>
+
+1714581711 c:\users\pocob\documents\cppp\guii - copy\include\settingsframe.h
+	<iostream>
+	<wx/wxprec.h>
+	<wx/wx.h>
+
+1714581742 source:c:\users\pocob\documents\cppp\guii - copy\src\settingsframe.cpp
+	"SettingsFrame.h"
+
+1711020035 source:c:\users\pocob\documents\cppp\guii - copy\src\book.cpp
+	"Book.h"
+
+1711624879 c:\users\pocob\documents\cppp\guii - copy\include\book.h
+	<iostream>
+	<vector>
+
+1713368361 source:c:\users\pocob\documents\cppp\guii - copy\src\client.cpp
+	"Client.h"
+
+1712834710 c:\users\pocob\documents\cppp\guii - copy\include\client.h
+	<iostream>
+	<cstdio>
+	<vector>
+	"Library.h"
+	<fstream>
+	<sstream>
+	"rapidjson/document.h"
+	"rapidjson/writer.h"
+	"rapidjson/stringbuffer.h"
+
+1713372489 c:\users\pocob\documents\cppp\guii - copy\include\library.h
+	<iostream>
+	<vector>
+	<fstream>
+	"Book.h"
+	"Tools.h"
+
+1711627915 c:\users\pocob\documents\cppp\guii - copy\include\tools.h
+	<iostream>
+	<vector>
+	"Book.h"
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\document.h
+	"reader.h"
+	"internal/meta.h"
+	"internal/strfunc.h"
+	"memorystream.h"
+	"encodedstream.h"
+	<new>
+	<limits>
+	<compare>
+	<iterator>
+	<map>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\reader.h
+	"allocators.h"
+	"stream.h"
+	"encodedstream.h"
+	"internal/clzll.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strtod.h"
+	<limits>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<stdexcept>
+	"rapidjson/error/error.h"
+	"rapidjson/reader.h"
+	"error/error.h"
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\allocators.h
+	"rapidjson.h"
+	"internal/meta.h"
+	<memory>
+	<limits>
+	<type_traits>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+	<utility>
+	<cassert>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\encodings.h
+	"rapidjson.h"
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\encodedstream.h
+	"stream.h"
+	"memorystream.h"
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\memorystream.h
+	"stream.h"
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\internal\clzll.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+	<cstddef>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\internal\strtod.h
+	"ieee754.h"
+	"biginteger.h"
+	"diyfp.h"
+	"pow10.h"
+	<climits>
+	<limits>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\internal\biginteger.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	"clzll.h"
+	<limits>
+	<intrin.h>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\internal\pow10.h
+	"../rapidjson.h"
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\error\error.h
+	"../rapidjson.h"
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\writer.h
+	"stream.h"
+	"internal/clzll.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1709864291 c:\users\pocob\documents\cppp\guii - copy\include\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1711020482 source:c:\users\pocob\documents\cppp\guii - copy\src\library.cpp
+	"Library.h"
+
+1713371437 source:c:\users\pocob\documents\cppp\guii - copy\src\menu.cpp
+	"Menu.h"
+
+1711023814 c:\users\pocob\documents\cppp\guii - copy\include\menu.h
+	"Library.h"
+	"Client.h"
+
+1711024318 source:c:\users\pocob\documents\cppp\guii - copy\src\test.cpp
+	"Test.h"
+
+1711024035 c:\users\pocob\documents\cppp\guii - copy\include\test.h
+	"Library.h"
+	"Client.h"
+
+1713373479 source:c:\users\pocob\documents\cppp\guii - copy\src\tools.cpp
+	"Tools.h"
+
+1715857071 source:c:\users\pocob\documents\cppp\guii - copy\src\listpanel.cpp
+	"ListPanel.h"
+
+1715252693 c:\users\pocob\documents\cppp\guii - copy\include\listpanel.h
+	<wx/grid.h>
+	<wx/wxprec.h>
+	<wx/wx.h>
+
+1715256807 c:\users\pocob\documents\cppp\guii - copy\include\searchpanel.h
+	<wx/grid.h>
+	<wx/wxprec.h>
+	<wx/wx.h>
+	<vector>
+	"Client.h"
+	"ListPanel.h"
+
+1715856785 source:c:\users\pocob\documents\cppp\guii - copy\src\searchpanel.cpp
+	"SearchPanel.h"
+
+1715860726 source:c:\users\pocob\documents\cppp\guii - copy\src\sidepanel.cpp
+	"SidePanel.h"
+
+1715860475 c:\users\pocob\documents\cppp\guii - copy\include\sidepanel.h
+	<wx/grid.h>
+	<wx/wxprec.h>
+	<wx/wx.h>
+

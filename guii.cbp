@@ -34,9 +34,25 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Book.h" />
+		<Unit filename="include/Client.h" />
+		<Unit filename="include/Library.h" />
+		<Unit filename="include/ListPanel.h" />
+		<Unit filename="include/Menu.h" />
+		<Unit filename="include/SearchPanel.h" />
 		<Unit filename="include/SettingsFrame.h" />
+		<Unit filename="include/Test.h" />
+		<Unit filename="include/Tools.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Book.cpp" />
+		<Unit filename="src/Client.cpp" />
+		<Unit filename="src/Library.cpp" />
+		<Unit filename="src/ListPanel.cpp" />
+		<Unit filename="src/Menu.cpp" />
+		<Unit filename="src/SearchPanel.cpp" />
 		<Unit filename="src/SettingsFrame.cpp" />
+		<Unit filename="src/Test.cpp" />
+		<Unit filename="src/Tools.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
