@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1715167204 source:c:\users\pocob\documents\cppp\guii\main.cpp
+	<wx/wxprec.h>
+	<wx/wx.h>
+	<SettingsFrame.h>
+
+1714581711 c:\users\pocob\documents\cppp\guii\include\settingsframe.h
+	<iostream>
+	<wx/wxprec.h>
+	<wx/wx.h>
+
+1714581742 source:c:\users\pocob\documents\cppp\guii\src\settingsframe.cpp
+	"SettingsFrame.h"
+
